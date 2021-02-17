@@ -1,4 +1,4 @@
-// JQUERY 3.4.1
+// RUN WITH JQUERY 3.4.1
 
 var letters = [];
 var output;
